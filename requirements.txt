@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 gunicorn==20.0.4
 requests==2.24.0
 Flask==1.1.4
 Jinja2==2.11.3
 Markupsafe==2.0.1
-
-
-=======
-Flask==1.1.2
-gunicorn==20.0.4
-requests==2.24.0
->>>>>>> d92b45aa6ff104e48c77f54379d51db76f74ab91
